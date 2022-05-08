@@ -10,4 +10,6 @@ Check out some of my favorite projects and experiences below!
 - 🌀 I created a [neural network](https://github.com/23ccozad/hurricane-wind-speed-cnn) that estimates a hurricane's wind speed based on its satellite image
 - 🦠 I made a [COVID-19 dashboard](https://github.com/23ccozad/covid19-edutrack-cofc) used at the College of Charleston
 
+I also keep a list of all of my [contributions to open source](https://github.com/23ccozad/23ccozad/blob/main/contributions.md).
+
 Connect with me on <a href='https://www.linkedin.com/in/connor-cozad/' target='_blank'>LinkedIn</a>!
