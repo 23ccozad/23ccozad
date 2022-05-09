@@ -5,6 +5,9 @@
 #### Merged Pull Requests
 - [#23000](https://github.com/matplotlib/matplotlib/pull/23000): Additional details on VS install on installation page
 
+#### Issues
+- [#23019](https://github.com/matplotlib/matplotlib/issues/23019): [Bug]: UnicodeDecodeError when using some special and accented characters in TeX
+
 ## MetPy
 
 #### Merged Pull Requests
