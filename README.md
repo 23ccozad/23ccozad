@@ -1,6 +1,6 @@
 ## Hi there, I'm Connor! 👋
 
-#### I'm a rising senior studying data science at the College of Charleston
+#### I'm a senior studying data science at the College of Charleston
 
 Check out some of my favorite projects and experiences below!
 
