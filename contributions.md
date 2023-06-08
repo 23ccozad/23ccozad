@@ -11,6 +11,7 @@
 ## MetPy
 
 #### Merged Pull Requests
+- [#3056](https://github.com/Unidata/MetPy/pull/3056): Adjust user-provided parcel temperature profile for NaN values in EL and LFC
 - [#2034](https://github.com/Unidata/MetPy/pull/2034): NHC wind probabilities example
 - [#2021](https://github.com/Unidata/MetPy/pull/2021): SPC convective outlook example
 - [#1973](https://github.com/Unidata/MetPy/pull/1973): Plotting Shapely objects in declarative interface
@@ -26,4 +27,5 @@
 - [#1884](https://github.com/Unidata/MetPy/pull/1884): Copy method for declarative interface
 
 #### Issues
+- [#3059](https://github.com/Unidata/MetPy/issues/3059): Building docs creates areas.rst as a change in git
 - [#1945](https://github.com/Unidata/MetPy/issues/1945): Plotting geoJSON and shapefiles
