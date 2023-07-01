@@ -12,6 +12,7 @@
 
 #### Merged Pull Requests
 - [#3056](https://github.com/Unidata/MetPy/pull/3056): Adjust user-provided parcel temperature profile for NaN values in EL and LFC
+- [#3054](https://github.com/Unidata/MetPy/pull/3054): Unit agnostic intervals for color-mapped hodographs
 - [#2034](https://github.com/Unidata/MetPy/pull/2034): NHC wind probabilities example
 - [#2021](https://github.com/Unidata/MetPy/pull/2021): SPC convective outlook example
 - [#1973](https://github.com/Unidata/MetPy/pull/1973): Plotting Shapely objects in declarative interface
