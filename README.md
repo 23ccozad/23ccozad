@@ -1,6 +1,6 @@
 ## Hi there, I'm Connor! 👋
 
-#### I'm a recent graduate with a degree in data science from the College of Charleston
+#### I'm a Meteorologist Developer with Lynker, supporting NOAA/NWS/NCEP/WPC
 
 Check out some of my favorite projects and experiences below!
 
@@ -11,5 +11,3 @@ Check out some of my favorite projects and experiences below!
 - 🦠 I made a [COVID-19 dashboard](https://github.com/23ccozad/covid19-edutrack-cofc) used at the College of Charleston
 
 I also keep a list of all of my [contributions to open source](https://github.com/23ccozad/23ccozad/blob/main/contributions.md).
-
-Connect with me on <a href='https://www.linkedin.com/in/connor-cozad/' target='_blank'>LinkedIn</a>!
